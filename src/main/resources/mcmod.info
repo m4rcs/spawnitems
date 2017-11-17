@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spawnitems",
+  "name": "Spawn Items",
+  "description": "A mod to give items to players when they spawn.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["m4rcs"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
